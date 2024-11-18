@@ -2,7 +2,7 @@ import streamlit as st
 import random
 
 # Title of the app
-st.title("Wisdom Whisper")
+st.title("MoodMatch")
 
 # User input for mood selection
 mood = st.selectbox("Feeling", ["Happy", "Anxious", "Calm", "Stressed"])
